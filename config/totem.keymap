@@ -110,10 +110,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-        &kp EXCL  &kp AT  &kp HASH  &kp DLLR       &kp PRCNT           &kp CARET     &kp AMPS  &kp APOSTROPHE  &kp DOUBLE_QUOTES  &trans
-        &trans    &trans  &trans    &trans         &trans              &kp ASTERISK  &trans    &trans          &trans             &trans
-&trans  &trans    &trans  &kp PIPE  &kp LESS_THAN  &kt GREATER_THAN    &kp EQUAL     &kp PLUS  &trans          &trans             &trans  &trans
-                          &trans    &gif           &mo 3               &trans        &trans    &trans
+        &kp EXCL      &kp AT  &kp HASH  &kp DLLR       &kp PRCNT           &kp CARET     &kp AMPS  &kp APOSTROPHE  &kp DOUBLE_QUOTES  &trans
+        &kp QUESTION  &trans  &trans    &trans         &trans              &kp ASTERISK  &trans    &trans          &trans             &trans
+&trans  &trans        &trans  &kp PIPE  &kp LESS_THAN  &kt GREATER_THAN    &kp EQUAL     &kp PLUS  &trans          &trans             &trans  &trans
+                              &trans    &gif           &mo 3               &trans        &trans    &trans
             >;
         };
 
